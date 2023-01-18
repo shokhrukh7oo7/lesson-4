@@ -1,0 +1,45 @@
+.div-1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.div-1 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  word-spacing: 25px;
+  line-height: 70px;
+  background-color: black;
+}
+
+.intro {
+  font-size: 40px;
+  color: aqua;
+}
+
+.btn {
+  color: red;
+  background-color: black;
+  border-radius: 25px;
+  font-size: 15px;
+}
+
+.qwe {
+  background-color: rgb(217, 238, 225);
+  color: black;
+}
+
+.html {
+  background-color: white;
+}
+
+.inro-2 {
+  font-size: 40px;
+  color: aqua;
+}
+
+.title {
+  background-color: white;
+  font-size: 30px;
+  color: aqua;
+}
